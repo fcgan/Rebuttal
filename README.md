@@ -26,12 +26,12 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/3947y_bgr.png)
 
->> Feture map on 1-2 convolutional layers
+>> Feture maps on 1-2 convolutional layers
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv13.png)
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv14.png)
 
->> Feture map on last two convolutional layers
+>> Feture maps on last two convolutional layers
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv24.png)
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv25.png)
@@ -39,7 +39,8 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 3. t-SNE and PCA plots for different source objects
 
 ### 4. Occlution Test
->> We take a toxo and acell as examples to conduct occlusion Test.
+>> We take a toxo and a cell as examples to conduct occlusion Test. The image is obscured by a 64x64 mask step by step. 
+>> If the obscured predicted probability is lower 0.35 than orginal image, we note a -0.350 below the obscured image. If the probability is higher than original image, we note a +0.35 below the obscured image.
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_occlusion.jpg)
 
