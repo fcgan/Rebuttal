@@ -38,11 +38,13 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ### 3. t-SNE and PCA plots for different source objects
 
-### 4. Occlution Test
+### 4. Occlusion Test
 >> We take a toxo and a cell as examples to conduct occlusion Test. The image is obscured by a 64x64 mask step by step. 
 >> If the obscured predicted probability is lower 0.35 than orginal image, we note a -0.350 below the obscured image. If the probability is higher than original image, we note a +0.35 below the obscured image.
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_occlusion.jpg)
+
+From the results of occlusion test, it can be seen that the outline is more important than internal area because the images which outline masked achieves a larger predicted probability loss than other area.
 
 ### 5. Evaluation criteria and Updated F1-score
 > * **Criterias**
