@@ -38,7 +38,7 @@ Recall: refers to the proportion of the total positive case that is predicted to
 Represents the classifier to determine the correct proportion of the entire sample:  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif)  
 F1-score under each category:  
-![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif)
+![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/fi.gif)
 
 
 ### 6.Settings of supervised methods in Section 4.2
