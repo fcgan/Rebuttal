@@ -22,6 +22,9 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 1. cross-domain image generation
 
 ### 2. feature map visualization
+>> Take a cell image as an example to show the feature map visualization.
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/3947y_bgr.png)
+
 >> Feture map on 1-2 convolutional layers
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv13.png)
