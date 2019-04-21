@@ -59,4 +59,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/GoogleNet.jpg)  
 
 ### 7. Formula of V_S and V_T
-$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+>> Due to limited by the rebuttal space, the detail formulas are as following:
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vs.gif)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vt.gif)
+where *n* is the batch size of a mini-batch.
