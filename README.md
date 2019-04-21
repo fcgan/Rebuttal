@@ -51,7 +51,11 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 > * **Updated F1-score**
 
->> 111111111
+>> Updated results on T400 dataset
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/T400.jpg)
+
+>> Updated results on T1000 dataset
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/T1000.jpg)
 
 ### 6. Settings of supervised methods in Section 4.2
 > * ResNet Setting (batch size=50, learning rate=2e-6)
