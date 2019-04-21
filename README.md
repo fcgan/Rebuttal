@@ -47,6 +47,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> 111111111
 
 ### 6. Settings of supervised methods in Section 4.2
+> * ResNet Setting
 The following table is the structural parameters of the ResNet model with learning rate equaling to 2e-6.    
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/ResNet.jpg)  
 The following table is the structural parameters of the VggNet model with learning rate equaling to 2e-6.  
