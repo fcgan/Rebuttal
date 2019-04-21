@@ -29,11 +29,15 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >>> Cat as source object:
 
 ### 2. feature map visualization for different source objects
->> Feture map on 1-3 convolutional layer
+>> Feture map on 1-2 convolutional layers
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv13.png)
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv14.png)
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv15.png)
+
+>> Feture map on last two convolutional layers
+
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv24.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv25.png)
 
 ### 3. t-SNE and PCA plots for different source objects
 
