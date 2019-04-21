@@ -19,15 +19,15 @@ This page shows some results of supplementary experiments in rebuttal period of 
 8.Updated Algorithm 1
 
 ## Details of the experiments:
-### 1 cross-domain image generation for different source objects
+### 1. cross-domain image generation for different source objects
 
-### 2 feature map visualization for different source objects
+### 2. feature map visualization for different source objects
 
-### 3 t-SNE and PCA plots for different source objects
+### 3. t-SNE and PCA plots for different source objects
 
-### 4 Occlution Test for different source objects
+### 4. Occlution Test for different source objects
 
-### 5.Evaluation criteria and Updated F1-score
+### 5. Evaluation criteria and Updated F1-score
 #### (1) Criterias
 TP (True Positive): predicting the correct answer  
 FP (False Positive): wrong to predict other classes as this class  
@@ -43,10 +43,12 @@ F1-score under each category:
 #### (2) Updated F1-score
 111111111
 
-### 6.Settings of supervised methods in Section 4.2
+### 6. Settings of supervised methods in Section 4.2
 The following table is the structural parameters of the ResNet model with learning rate equaling to 2e-6.    
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/ResNet.jpg)  
 The following table is the structural parameters of the VggNet model with learning rate equaling to 2e-6.  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/VggNet.jpg)  
 The following table is the structural parameters of the GoogleNet model with learning rate equaling to 2e-6.  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/GoogleNet.jpg)  
+
+### 7. Formula of V_S and V_T
