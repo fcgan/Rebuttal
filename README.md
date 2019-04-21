@@ -67,5 +67,5 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> where *n* is the batch size of a mini-batch.
 
 ### 8. Updated Algorithm 1
->> We update specific initialization of parameters in Algorithm 1, and detail is as below:
+>> We update specific initialization of parameters in Algorithm 1. As described in 7, V_S and V_T is an average value in network, so it meets the condition of back-progagation algorithm. Detail is as below:
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Algorithm.jpg)
