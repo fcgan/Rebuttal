@@ -40,7 +40,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv25.png)
 
 ### 3. t-SNE and PCA plots for different source objects
->> We randomly select 1000 samples to extract features and do t-SNE and PCA plot for different source.
+>> We randomly select 1000 samples to extract features and do t-SNE and PCA plot for different source. The plot on left is t-SNE and the right is PCA plot.
 
 >>> Plots for Toxo40 source
 
