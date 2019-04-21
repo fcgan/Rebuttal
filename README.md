@@ -2,13 +2,13 @@
 This page shows some results of supplementary experiments in rebuttal period of IJCAI2019. Detail description can be seen in rebuttal content.
 
 ## The list of experiments is as below:
-> 1 cross-domain image generation for different source objects
+> 1 cross-domain image generation
 
-> 2 feature map visualization for different source objects
+> 2 feature map visualization
   
 > 3 t-SNE and PCA plots for different source objects
   
-> 4 Occlution Test for different source objects
+> 4 Occlution Test
   
 > 5.Evaluation criteria and updated F1-scores
 
@@ -19,16 +19,9 @@ This page shows some results of supplementary experiments in rebuttal period of 
 > 8.Updated Algorithm 1
 
 ## Details of the experiments:
-### 1. cross-domain image generation for different source objects
->>> Toxo 40X as source object:
+### 1. cross-domain image generation
 
->>> Banana as source object:
-
->>> Crescent as source object:
-
->>> Cat as source object:
-
-### 2. feature map visualization for different source objects
+### 2. feature map visualization
 >> Feture map on 1-2 convolutional layers
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv13.png)
@@ -41,7 +34,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ### 3. t-SNE and PCA plots for different source objects
 
-### 4. Occlution Test for different source objects
+### 4. Occlution Test
 
 ### 5. Evaluation criteria and Updated F1-score
 > * **Criterias**
