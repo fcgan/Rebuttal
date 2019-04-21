@@ -69,3 +69,5 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 8. Updated Algorithm 1
 >> We update specific initialization of parameters in Algorithm 1. As described in 7, V_S and V_T is an average value in network, so it meets the condition of back-progagation algorithm. Detail is as below:
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Algorithm.jpg)
+
+## Thanks for your patient to visit this page observing our supplymentary experimental results. Thanks for your comments again.
