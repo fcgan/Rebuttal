@@ -28,7 +28,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 4. Occlution Test for different source objects
 
 ### 5. Evaluation criteria and Updated F1-score
-> * *Criterias*
+> *Criterias*
 
 >> TP (True Positive): predicting the correct answer  
 >> FP (False Positive): wrong to predict other classes as this class  
