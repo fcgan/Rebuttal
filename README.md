@@ -59,7 +59,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/GoogleNet.jpg)  
 
 ### 7. Formula of V_S and V_T
->> Due to limited by the rebuttal space, the detail formulas are as following:
+>> Due to limited rebuttal space, the detail formulas please refer to:
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vs.gif)
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vt.gif)
