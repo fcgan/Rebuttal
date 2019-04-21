@@ -43,7 +43,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ### 4. Occlusion Test
 >> We take a toxo and a cell under 400X microscope as examples to conduct occlusion Test. The image is obscured by a 64x64 mask step by step. 
->> If the obscured predicted probability is lower 0.35 than orginal image, we note a -0.350 below the obscured image. If the probability is higher than original image, we note a +0.35 below the obscured image.
+>> If the obscured predicted probability is lower 0.35 than orginal image's, we note a -0.350 below the obscured image. If the probability is higher than original image, we note a +0.35 below the obscured image.
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_occlusion.jpg)
 
