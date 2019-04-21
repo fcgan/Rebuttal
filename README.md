@@ -18,5 +18,5 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 8.Updated Algorithm 1
 
-
+## Details of the experiments:
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/6.png)
