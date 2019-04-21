@@ -65,3 +65,5 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vt.gif)
 
 >> where *n* is the batch size of a mini-batch.
+
+### 8. Updated Algorithm 1
