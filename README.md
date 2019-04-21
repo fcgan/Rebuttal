@@ -20,6 +20,9 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ## Details of the experiments:
 ### 1. cross-domain image generation
+>> We take banana as source object to conduct cross-domain image generation. The result is shown below:
+
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/generation.jpg)
 
 ### 2. feature map visualization
 >> Take a cell image as an example to show the feature map visualization.
