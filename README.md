@@ -28,7 +28,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 4. Occlution Test for different source objects
 
 ### 5. Evaluation criteria and Updated F1-score
-> **Criterias**
+> * **Criterias**
 
 >> TP (True Positive): predicting the correct answer  
 >> FP (False Positive): wrong to predict other classes as this class  
@@ -42,7 +42,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> F1-score under each category:  
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/fi.gif)
 
-> * *Updated F1-score*
+> * **Updated F1-score**
 
 >> 111111111
 
