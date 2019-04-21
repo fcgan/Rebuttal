@@ -40,6 +40,18 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv25.png)
 
 ### 3. t-SNE and PCA plots for different source objects
+>> Plots for Toxo40 source
+
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_40x.png)
+
+>> Plots for Banana source
+
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/crescent_40x.png)
+
+>> Plots for Crescent source
+
+>> Plots for Cat source
+
 
 ### 4. Occlusion Test
 >> We take a toxo and a cell under 400X microscope as examples to conduct occlusion Test. The image is obscured by a 64x64 mask step by step. 
