@@ -20,7 +20,10 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ## Details of the experiments:
 ### 1. cross-domain image generation for different source objects
-
+>>> Toxo 40X as source object:
+>>> Banana as source object:
+>>> Crescent as source object:
+>>> Cat as source object:
 ### 2. feature map visualization for different source objects
 
 ### 3. t-SNE and PCA plots for different source objects
