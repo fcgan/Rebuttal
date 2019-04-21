@@ -27,7 +27,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ### 4 Occlution Test for different source objects
 
-### 5.Evaluation criteria
+### 5.Evaluation criteria and Update F1-score
 TP (True Positive): predicting the correct answer  
 FP (False Positive): wrong to predict other classes as this class  
 FN (False Negative): This type of label is predicted to be other types of labels.  
@@ -38,7 +38,9 @@ Recall: refers to the proportion of the total positive case that is predicted to
 Represents the classifier to determine the correct proportion of the entire sample:  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif)  
 F1-score under each category:  
-![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif) 
+![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif)
+
+
 ### 6.Settings of supervised methods in Section 4.2
 The following table is the structural parameters of the ResNet model with learning rate equaling to 2e-6.    
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/ResNet.jpg)  
