@@ -23,7 +23,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 
 
-### 5.Evaluation criteria and updated F1-scores
+### 5.Evaluation criteria
 TP (True Positive): predicting the correct answer  
 FP (False Positive): wrong to predict other classes as this class  
 FN (False Negative): This type of label is predicted to be other types of labels.  
@@ -36,9 +36,9 @@ Represents the classifier to determine the correct proportion of the entire samp
 F1-score under each category:  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif) 
 ### 6.Settings of supervised methods in Section 4.2
-The following table is the structural parameters of the ResNet model.  
+The following table is the structural parameters of the ResNet model with learning rate equaling to 2e-6.    
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/ResNet.jpg)  
-The following table is the structural parameters of the VggNet model.  
+The following table is the structural parameters of the VggNet model with learning rate equaling to 2e-6.  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/VggNet.jpg)  
-The following table is the structural parameters of the GoogleNet model.  
+The following table is the structural parameters of the GoogleNet model with learning rate equaling to 2e-6.  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/GoogleNet.jpg)  
