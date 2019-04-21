@@ -19,6 +19,14 @@ This page shows some results of supplementary experiments in rebuttal period of 
 8.Updated Algorithm 1
 
 ## Details of the experiments:
+### 1 cross-domain image generation for different source objects
+
+### 2 feature map visualization for different source objects
+
+### 3 t-SNE and PCA plots for different source objects
+
+### 4 Occlution Test for different source objects
+
 ### 5.Evaluation criteria
 TP (True Positive): predicting the correct answer  
 FP (False Positive): wrong to predict other classes as this class  
