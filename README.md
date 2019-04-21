@@ -46,7 +46,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 >> Plots for Banana source
 
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/crescent_40x.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/crescent_40X.png)
 
 >> Plots for Crescent source
 
