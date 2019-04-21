@@ -28,7 +28,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 4. Occlution Test for different source objects
 
 ### 5. Evaluation criteria and Updated F1-score
-#### (1) Criterias
+* Criterias
 TP (True Positive): predicting the correct answer  
 FP (False Positive): wrong to predict other classes as this class  
 FN (False Negative): This type of label is predicted to be other types of labels.  
@@ -40,7 +40,8 @@ Represents the classifier to determine the correct proportion of the entire samp
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/acc.gif)  
 F1-score under each category:  
 ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/fi.gif)
-#### (2) Updated F1-score
+
+* Updated F1-score
 111111111
 
 ### 6. Settings of supervised methods in Section 4.2
