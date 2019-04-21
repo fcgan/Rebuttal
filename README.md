@@ -72,7 +72,7 @@ From the results of occlusion test, it can be seen that the outline is more impo
 
 >> Updated results on T1000 dataset
 
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/T100.jpg)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/T1000.jpg)
 
 ### 6. Settings of supervised methods in Section 4.2
 > * ResNet Setting (batch size=50, learning rate=2e-6)
