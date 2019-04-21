@@ -44,7 +44,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 >>> Plots for Toxo40 source
 
->>> 
+>>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/toxo_toxo40.png)
 
 >>> Plots for Banana source
 
@@ -53,10 +53,10 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 >>> Plots for Crescent source
 
-![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/crescent_40X.png)
+>>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/crescent_40X.png)
 
 >>> Plots for Cat source
-
+>>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/cat_toxo40.png)
 
 ### 4. Occlusion Test
 >> We take a toxo and a cell under 400X microscope as examples to conduct occlusion Test. The image is obscured by a 64x64 mask step by step. 
