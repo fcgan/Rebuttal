@@ -60,6 +60,8 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ### 7. Formula of V_S and V_T
 >> Due to limited by the rebuttal space, the detail formulas are as following:
+
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vs.gif)
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/Vt.gif)
-where *n* is the batch size of a mini-batch.
+
+>> where *n* is the batch size of a mini-batch.
