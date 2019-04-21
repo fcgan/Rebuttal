@@ -41,7 +41,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 4. Occlution Test
 >> We take a toxo and acell as examples to conduct occlusion Test.
 
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_cclusion.jpg)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_occlusion.jpg)
 
 ### 5. Evaluation criteria and Updated F1-score
 > * **Criterias**
