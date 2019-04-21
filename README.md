@@ -51,11 +51,11 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> The following table is the structural parameters of the ResNet model.
 >>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/ResNet.jpg)  
 > * VggNet Setting (batch size=50, learning rate=2e-6)
-The following table is the structural parameters of the VggNet model.  
-![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/VggNet.jpg)  
+>>> The following table is the structural parameters of the VggNet model.  
+>>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/VggNet.jpg)  
 
 > * GoogleNet Setting (batch size=50, learning rate=2e-6)
-The following table is the structural parameters of the GoogleNet model.
-![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/GoogleNet.jpg)  
+>>> The following table is the structural parameters of the GoogleNet model.
+>>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/GoogleNet.jpg)  
 
 ### 7. Formula of V_S and V_T
