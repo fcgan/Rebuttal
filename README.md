@@ -10,13 +10,13 @@ This page shows some results of supplementary experiments in rebuttal period of 
   
 > 4 Occlution Test
   
-> 5.Evaluation criteria and updated F1-scores
+> 5 Evaluation criteria and updated F1-scores
 
-> 6.Settings of supervised methods in Section 4.2
+> 6 Settings of supervised methods in Section 4.2
 
-> 7.Formula of V_S and V_T
+> 7 Formula of V_S and V_T
 
-> 8.Updated Algorithm 1
+> 8 Updated Algorithm 1
 
 ## Details of the experiments:
 ### 1. cross-domain image generation
