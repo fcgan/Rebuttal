@@ -29,7 +29,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 2. feature map visualization
 >> Take a 400X cell image as an example to show the feature map visualization.
 
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/3947y_bgr.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/2671y_1.png)
 
 >> Feture maps on 1-2 convolutional layers
 
