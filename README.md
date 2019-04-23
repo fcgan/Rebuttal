@@ -20,10 +20,11 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 ## Details of the experiments:
 ### 1. cross-domain image generation
->> We take banana as source object to conduct cross-domain image generation. The result is shown below:
+>> image translation between (banana) source and (toxo and cell) target images in FCGAN and Cycle GAN. The red marker A in images denotes *T.gondii* parasite and B denotes host cell.
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/generation.jpg)
->> Inro: image translation between (banana) source and (toxo and cell) target images in FCGAN. The red marker A in images denotes *T.gondii* parasite and B denotes host cell.
+
+>> FCGAN makes tranlated images remaining shape and texture information, and following the same background of the domain from where they generated. However, Cycle GAN make source and target images only follow mutual style translation. It demonstrates that our FCGAN can create texture and shape relationship between microscopic object and macroscopic object with wselecitivity of associated information.
 
 ### 2. feature map visualization
 >> Take a 400X cell image as an example to show the feature map visualization.
