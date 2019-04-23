@@ -72,7 +72,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/banana_occlusion.jpg)
 
-From the results of occlusion test, it can be seen that the outline is more important than internal area because the images which outline masked achieves a larger predicted probability loss than other area.
+From the results of occlusion test, it can be seen that the outline is more important than internal area because the images which outline masked achieves a larger predicted probability loss than other area. The area of insterest in FCGAN is the edge of  objects, which means the texture and shape information is extracted following the main idea of FCGAN.
 
 ### 5. Evaluation criteria and Updated F1-score
 > * **Criterias**
