@@ -41,6 +41,8 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/conv24.png)
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/conv25.png)
 
+From feature map visualization, it can be seen that shallow layers extract texture information and produce clear feature maps for these information, while deeper layer extract abstract features for clustering.
+
 ### 3. t-SNE and PCA plots for different source objects
 >> We randomly select 1000 400X samples to extract features and do t-SNE and PCA plot for different source. The plot on left is t-SNE and the right is PCA plot.
 
