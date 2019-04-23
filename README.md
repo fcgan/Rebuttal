@@ -23,6 +23,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> We take banana as source object to conduct cross-domain image generation. The result is shown below:
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/generation.jpg)
+>> Image translation between (banana) source and (toxo and cell) target images in FCGAN. The red marker A in images denotes *T.gondii* parasite and B denotes host cell.
 
 ### 2. feature map visualization
 >> Take a 400X cell image as an example to show the feature map visualization.
