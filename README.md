@@ -27,7 +27,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >> FCGAN makes tranlated images remaining shape and texture information, and following the same background of the domain from where they generated. However, Cycle GAN make source and target images only follow mutual style translation. It demonstrates that our FCGAN can create texture and shape relationship between microscopic object and macroscopic object with selecitivity of associated information.
 
 ### 2. feature map visualization
->> Take a 400X cell image as an example to show the feature map visualization.
+>> Take a 400X toxo image as an example to show the feature map visualization.
 
 
 >> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/2671y_1.png)
