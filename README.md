@@ -2,9 +2,9 @@
 This page shows some results of supplementary experiments in rebuttal period of IJCAI2019. Detail description can be seen in rebuttal content.
 
 ## The list of experiments is as below:
-> 1 cross-domain image generation
+> 1 Cross-domain image generation
 
-> 2 feature map visualization
+> 2 Feature map visualization
   
 > 3 t-SNE and PCA plots for different source objects
   
