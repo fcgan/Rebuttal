@@ -33,13 +33,13 @@ This page shows some results of supplementary experiments in rebuttal period of 
 
 >> Feture maps on 1-2 convolutional layers
 
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv13.png)
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv14.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/conv13.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/conv14.png)
 
 >> Feture maps on last two convolutional layers
 
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv24.png)
->> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/featureMap/conv25.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/conv24.png)
+>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/conv25.png)
 
 ### 3. t-SNE and PCA plots for different source objects
 >> We randomly select 1000 400X samples to extract features and do t-SNE and PCA plot for different source. The plot on left is t-SNE and the right is PCA plot.
