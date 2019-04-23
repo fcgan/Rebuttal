@@ -64,7 +64,7 @@ This page shows some results of supplementary experiments in rebuttal period of 
 >>> Plots for Cat source
 >>> ![Image text](https://github.com/fcgan/Rebuttal/blob/master/imgs/cat_toxo40.png)
 
->> From t-SNE and PCA plots, we can conclude that, the best performance is toxo images source, and the others are followed by their similarities to toxo. Combined with their accuracies: Toxo source (98.9%) > Banana source (98.6%), Crescent source 96.9, and Cat source (94.4%), it is obvious that the more similar of the macro object, the better performance will be achieved in our FCGAN model.
+>> From t-SNE and PCA plots, we can observe that, the best performance is toxo images source, and the others are followed by their similarities to toxo. Combined with their accuracies: Toxo source (98.9%) > Banana source (98.6%) > Crescent source 96.9 > Cat source (94.4%), it is obvious that the more similar of the macro object, the better performance will be achieved in our FCGAN model.
 
 ### 4. Occlusion Test
 >> We take a toxo and a cell under 400X microscope as examples to conduct occlusion Test. The image is obscured by a 64x64 mask step by step. 
