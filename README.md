@@ -77,7 +77,8 @@ This page shows some results of supplementary experiments in rebuttal period of 
 ### 5. Evaluation criteria and Updated F1-score
 > * **Criterias**
 
->> TP (True Positive): predicting the correct answer  
+>> TP (True Positive): predicting the correct positive samples
+>> TN (True Negtive):  Predicting the correct negative samples
 >> FP (False Positive): wrong to predict other classes as this class  
 >> FN (False Negative): This type of label is predicted to be other types of labels.  
 >> Precision: refers to the proportion of positive samples in the positive case determined by the classifier:  
